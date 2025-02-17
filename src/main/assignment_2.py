@@ -1,3 +1,4 @@
+import numpy as np
 
 def neville_interpolation(x,val, w):
     n = len(x)
