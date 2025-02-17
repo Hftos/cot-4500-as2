@@ -24,7 +24,7 @@ git clone git@github.com:Hftos/cot-4500-as2.git
 2. Navigate to cot-4500-as2/src/main
 3. Run
 ```sh
-python assigment_2.py
+python assignment_2.py
 ```
 
 #### How to test
