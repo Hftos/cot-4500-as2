@@ -11,6 +11,7 @@ It implements the following interpolation techniques:
 #### Requirements
 This program uses Python 3.x and requires:
 - numpy>=1.18.0
+- pytest>=7.0.0
 Install the dependencies with the following:
 ```sh
 pip install -r requirements.txt
